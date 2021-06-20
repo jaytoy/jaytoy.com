@@ -1,4 +1,4 @@
-baseURL = "jaytoy.com"
+baseURL = "https://jaytoy.com"
 languageCode = "en-us"
 title = "Jay Toy"
 theme = "hugo-ink"
