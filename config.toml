@@ -1,7 +1,7 @@
 baseURL = "https://jaytoy.com"
 languageCode = "en-us"
 title = "Jay Toy"
-theme = "hugo-ink"
+# theme = "hugo-ink"
 paginate = 5
 
 copyright = "© Jay Toy"
