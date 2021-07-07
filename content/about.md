@@ -1,7 +1,10 @@
 ---
 title: "About"
-date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
 
-This is some static page where you can write about yourself.
+Hi!
+
+I'm Jay - a front-end engineer studying in Berlin. I'm currently on a journey to learn how to build products which bring value to other people.
+
+Feel free to contact me via email under <jay_toyjianying@hotmail.com>
